@@ -1,0 +1,7 @@
+# .gitignore
+
+# files
+.pyc
+
+# folders
+cache/
