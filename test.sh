@@ -7,3 +7,5 @@ dev, commit 3
 dev, commit 4
 Пт мая  5 19:44:50 UTC 2023
 dev, commit 5
+Пт мая  5 20:26:03 UTC 2023
+conflict, commit 2
